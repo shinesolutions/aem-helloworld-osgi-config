@@ -15,7 +15,7 @@
     <!-- ====================================================================== -->
     <!-- P R O J E C T  D E S C R I P T I O N                                   -->
     <!-- ====================================================================== -->
-    <artifactId>aem-helloworld-osgi-config-package</artifactId>
+    <artifactId>aem-helloworld-osgi-config-package-${runmode}</artifactId>
     <packaging>content-package</packaging>
     <name>OSGI Config for AEM Hello World project</name>
 
