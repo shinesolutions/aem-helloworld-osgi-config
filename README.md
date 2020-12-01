@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/shinesolutions/aem-helloworld-osgi-config/workflows/CI/badge.svg)](https://github.com/shinesolutions/aem-helloworld-osgi-config/actions?query=workflow%3ACI)
+
 # Hello World OSGi Config Project
 
 This project demonstrates how to apply environment specific configuration in AEM without the use of [run modes](https://helpx.adobe.com/experience-manager/6-4/sites/deploying/using/configure-runmodes.html). 
